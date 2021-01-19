@@ -241,8 +241,9 @@ section:nth-child(2) .grid-item:nth-child(n+12) h3{
        width: 280px;
    }
 
-   section p{
-       font-size: 19px;
+   .grid-item p{
+       font-size: 20px;
+       line-height: 30px;
        margin-bottom: 10px;
    }
 
@@ -259,8 +260,8 @@ section:nth-child(2) .grid-item:nth-child(n+12) h3{
    }
 
    .grid-item:first-child p{
-       font-size: 19px;
-       line-height: 20px;
+       font-size: 20px;
+       line-height: 30px;
    }
 
    section:first-child .grid-item:nth-child(n+12){
@@ -268,8 +269,8 @@ section:nth-child(2) .grid-item:nth-child(n+12) h3{
    }
 
    section:first-child .grid-item:nth-child(n+12) p{
-       font-size: 19px;
-       line-height: 20px;
+       font-size: 20px;
+       line-height: 30px;
    }
    
    section:first-child .grid-item:nth-child(n+12) h3{
@@ -289,8 +290,8 @@ section:nth-child(2) .grid-item:nth-child(n+12) h3{
    }
    
    section:nth-child(2) .grid-item:nth-child(n+12) p{
-       font-size: 19px;
-       line-height: 20px;
+       font-size: 20px;
+       line-height: 30px;
    }
    
    section:nth-child(2) .grid-item:nth-child(n+12) h3{
